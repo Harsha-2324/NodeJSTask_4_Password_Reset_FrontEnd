@@ -32,11 +32,12 @@ const Navbar = () => {
       <div className="container">
         <Link to="/" className="navbar-brand">
           <img
-            src="./image\WLA_icon_instagram.svg"
-            alt="harsha-insta-logo"
+            src="https://upload.wikimedia.org/wikipedia/commons/7/78/WLA_icon_instagram.svg"
+            // alt="harsha-insta-logo"
             style={{ width: "4rem" }}
           />
         </Link>
+
         {/* <Link to="/forgotPassword" className="nav-link"> 
           Forgot Password
         </Link> */}
