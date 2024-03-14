@@ -24,7 +24,7 @@ export default function Login() {
     setLoading(true);
     let { data } = await axios
       .post(
-        `https://password-reset-backend-lo0n.onrender.com/api/user/login/`,
+        `https://nodejstask-4-password-reset-backend.onrender.com/api/user/login/`,
         values
       )
       .then((response) => {
