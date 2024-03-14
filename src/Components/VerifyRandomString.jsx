@@ -13,7 +13,7 @@ export default function VerifyRandomString() {
     async function verifyRandomString() {
       try {
         const response = await axios.get(
-          `https://password-reset-backend-lo0n.onrender.com/api/user/verifyRandomString/${randomString}`
+          `https://nodejstask-4-password-reset-backend.onrender.com/api/user/verifyRandomString/${randomString}`
         );
 
         if (response.data.message === "Random String Verified") {

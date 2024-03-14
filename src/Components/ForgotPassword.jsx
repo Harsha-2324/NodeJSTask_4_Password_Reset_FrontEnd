@@ -23,7 +23,7 @@ export default function ForgotPassword() {
     setLoading(true);
     try {
       const response = await axios.post(
-        "https://password-reset-backend-lo0n.onrender.com/api/user/ForgotPassword/",
+        "https://nodejstask-4-password-reset-backend.onrender.com/api/user/ForgotPassword/",
         values
       );
 
