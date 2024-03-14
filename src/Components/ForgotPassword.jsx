@@ -92,14 +92,14 @@ export default function ForgotPassword() {
             </div>
             <div className="col-md-7 bg-light">
               <div className="text-center p-5">
-                <i
-                  class="fa-solid fa-lock text-main"
-                  style={{ fontSize: "50px" }}
-                ></i>
-
+                <img
+                  src="https://help.apple.com/assets/627EBB4D4FDDD519030FB00A/627EBB504FDDD519030FB012/en_GB/edf6f691d463be51741b88f6699c9e05.png"
+                  // alt="harsha-insta-logo"
+                  style={{ width: "5rem", height: "5rem" }}
+                />
                 <h4
                   className="fw-bolder fs-5 my-3"
-                  style={{ color: "#3b5998" }}
+                  style={{ color: "#0A0A0A" }}
                 >
                   Trouble logging in?
                 </h4>

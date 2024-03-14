@@ -151,14 +151,14 @@ body {
     #5C5D5B,
     #666765,
     #71716F,
-    #7A7C79,
-    #858683,
-    #8F908E
+    #7A7C79
+    /* #858683,
+    #8F908E */
     
     /* #db4437, */ /* #f4b400, */ /* #0f9d58 */
   );
   background-size: 300%;
-  animation-duration: 10s;
+  animation-duration: 7s;
   animation-iteration-count: infinite;
   animation-name: menugradientanimation;
 }
