@@ -62,10 +62,10 @@ export default function Home() {
                 verification and database updates.
               </h6>
               <img
-                src="./image/insta-icon.png"
-                alt=""
-                style={{ width: "10rem" }}
-                className="my-4"
+                width="128"
+                alt="Apple logo grey"
+                src="https://upload.wikimedia.org/wikipedia/commons/3/3d/ICloud.svg"
+                style={{ width: "15rem", marginBottom: "1rem" }}
               />
               {loading ? (
                 <div className="d-flex justify-content-center">

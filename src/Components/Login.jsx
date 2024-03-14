@@ -74,13 +74,11 @@ export default function Login() {
   }
   return (
     <>
-      {/* <video autoPlay loop muted src="./image/lib book.mp4"> */}
       <div className="bg-color">
         <div className="container min-vh-100 d-flex align-items-center justify-content-center py-5 py-md-0">
           <div className="content row gx-0">
             <div className="col-md-5">
               <div className="bg-login text-white h-100 d-flex align-items-center justify-content-center flex-column p-5 text-center">
-              
                 <h2 className="mb-3 fw-bold">Don't have an Account?</h2>
                 <p>Register Here</p>
                 <Link to={"/register"}>
@@ -91,9 +89,13 @@ export default function Login() {
               </div>
             </div>
             <div className="col-md-7 bg-light">
-              
               <div className="text-center p-5">
-              <img src="./image/insta-logo.png" alt="logo" style={{width:"11rem",marginBottom:"1rem"}}/>
+                <img
+                  width="128"
+                  alt="Apple logo grey"
+                  src="https://upload.wikimedia.org/wikipedia/commons/3/3d/ICloud.svg"
+                  style={{ width: "12rem", marginBottom: "1rem" }}
+                />
                 {/* <h1 className="text-main fw-bolder">Login Now</h1> */}
                 <form onSubmit={formik.handleSubmit}>
                   {error ? <p className="text-danger ">{error}</p> : ""}
@@ -112,9 +114,8 @@ export default function Login() {
                   ) : (
                     ""
                   )}
-                  
+
                   <div className="position-relative">
-                  
                     <input
                       id="password-input"
                       type="password"
@@ -148,7 +149,7 @@ export default function Login() {
                         <Oval
                           height={30}
                           width={30}
-                          color="#fff"
+                          color="#0A0A0A"
                           wrapperStyle={{}}
                           wrapperClass=""
                           visible={true}
@@ -163,15 +164,23 @@ export default function Login() {
                     )}
                   </button>
                   <div className="mt-4">
-                    <Link to="/forgotPassword" style={{textDecoration: "none" ,color:"#3b5998",fontWeight:"bold"}}>Forgot Password</Link>
+                    <Link
+                      to="/forgotPassword"
+                      style={{
+                        textDecoration: "none",
+                        color: "#0A0A0A",
+                        fontWeight: "bold",
+                      }}
+                    >
+                      Forgot Password
+                    </Link>
                   </div>
                 </form>
               </div>
             </div>
           </div>
         </div>
-        </div>
-      {/* </video> */}
+      </div>
     </>
   );
 }

@@ -99,12 +99,13 @@ export default function Register() {
             <div className="col-md-7 bg-light">
               <div className="text-center p-5">
                 <img
-                  src="./image/insta-logo.png"
-                  alt="logo"
-                  style={{ width: "11rem" }}
+                  width="128"
+                  alt="Apple logo grey"
+                  src="https://upload.wikimedia.org/wikipedia/commons/3/3d/ICloud.svg"
+                  style={{ width: "12rem", marginBottom: "1rem" }}
                 />
                 <h5 className="text-secondary fw-bolder fs-5 my-3">
-                  Sign up to see photos and videos from your friends.
+                  Sign up to see photos and videos from your iCloud.
                 </h5>
                 <form onSubmit={formik.handleSubmit}>
                   {error ? <p className="text-danger ">{error}</p> : ""}

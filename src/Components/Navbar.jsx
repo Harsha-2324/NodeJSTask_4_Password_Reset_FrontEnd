@@ -32,9 +32,9 @@ const Navbar = () => {
       <div className="container">
         <Link to="/" className="navbar-brand">
           <img
-            src="https://upload.wikimedia.org/wikipedia/commons/7/78/WLA_icon_instagram.svg"
+            src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png"
             // alt="harsha-insta-logo"
-            style={{ width: "4rem" }}
+            style={{ width: "3rem",height:"3rem" }}
           />
         </Link>
 
