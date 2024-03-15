@@ -2,21 +2,21 @@
 
 Welcome to our Password Reset Web Application! This project is built with love using React, Node.js, and MongoDB. It allows users to securely reset their passwords using JWT authentication.
 
-## FrontEnd Netlify Deployed URL
+## FrontEnd Netlify Deployed URL ⌛
 
 🔸*Click on the Badge to Check out My Password Reset Application Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://harsha-mern-password-reset.netlify.app)
 
-## BackEnd Render Deployed URL
+## BackEnd Render Deployed URL ⌛
 🔸[![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://nodejstask-4-password-reset-backend.onrender.com)
 
-## BackEnd GitHub Repository URL
+## BackEnd GitHub Repository URL ⌛
 🔸[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsha-2324/NodeJSTask_4_Password_Reset_BackEnd.git)
 
 ## Video Demo 🎥
 
 Watch a quick video demonstration of our Password Reset Web Application:
 
-1. **Video 1 Featuring:**
+## **Video: 1 Featuring** 🎥
    - `Register`: POST Data to MongoDB Database
    - `Login`: GET Data from MongoDB Database
    - `Forgot Password`: Mail Sent to Registered User's Mail ID using SMTP Protocol
@@ -27,7 +27,7 @@ Watch a quick video demonstration of our Password Reset Web Application:
 https://github.com/Harsha-2324/NodeJSTask_4_Password_Reset_FrontEnd/assets/24225236/8f6101f9-083a-47e4-93b7-1d2c5507017a
 
 
-2. **Video 2 Featuring:**
+## **Video: 2 Featuring** 🎥
    - `Email Validation`: Ensure user input email requirements for user security
    - `Password Validation`: Ensure user input password requirements for user security
    - `JWT Token Expiry`: After a Password Reset expiration for enhanced security
