@@ -51,11 +51,11 @@ export default function Home() {
           <div className="col-md-7 bg-light rounded-4">
             <div className="text-center p-5">
               <h1 className="text-main fw-bolder">
-                Password <span style={{ color: "#4284f1" }}>R</span>
-                <span style={{ color: "#DB4437" }}>e</span>
-                <span style={{ color: "#737373" }}>s</span>
-                <span style={{ color: "#F4B400" }}>e</span>
-                <span style={{ color: "#0F9D58" }}>t</span> Application!
+                Password <span style={{ color: "#5C5D5B" }}>R</span>
+                <span style={{ color: "#666765" }}>e</span>
+                <span style={{ color: "#71716F" }}>s</span>
+                <span style={{ color: "#7A7C79" }}>e</span>
+                <span style={{ color: "#858683" }}>t</span> Application!
               </h1>
               <h6 className="mt-2 mb-3">
                 This app implements a secure password reset process with email
