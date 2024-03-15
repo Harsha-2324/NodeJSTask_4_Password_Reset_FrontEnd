@@ -48,7 +48,7 @@ https://github.com/Harsha-2324/NodeJSTask_4_Password_Reset_FrontEnd/assets/24225
 - **Node.js Backend**: Robust backend server developed with Node.js.
 - **MongoDB Integration**: Integration with MongoDB for efficient data storage.
 
-## Technologies Used 🌐
+## Technologies Used Technologies Used in FrontEnd and BackEnd 🌐
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -59,7 +59,7 @@ https://github.com/Harsha-2324/NodeJSTask_4_Password_Reset_FrontEnd/assets/24225
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=for-the-badge&logo=nodemailer&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-## Tools Used 🛠️
+## Tools Used Technologies Used in FrontEnd and BackEnd 🛠️
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
