@@ -9,7 +9,14 @@ Welcome to our Password Reset Web Application! This project is built with love u
 
 Watch a quick video demonstration of our Password Reset Web Application:
 
-[![Password Reset Web App Demo Video](demo-thumbnail.png)](https://www.youtube.com/watch?v=your-video-id)
+
+https://github.com/Harsha-2324/NodeJSTask_4_Password_Reset_FrontEnd/assets/24225236/7cc6e3f2-cb6b-4d9c-841b-468fcd8f0210
+
+
+
+
+https://github.com/Harsha-2324/NodeJSTask_4_Password_Reset_FrontEnd/assets/24225236/1090d8ac-07bc-4c37-9a2e-10bdf8dd9b3c
+
 
 ## Features ✨
 
