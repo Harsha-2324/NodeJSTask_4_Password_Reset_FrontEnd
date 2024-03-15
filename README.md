@@ -1,4 +1,3 @@
-
 # Password Reset Web Application 🚀
 
 Welcome to our Password Reset Web Application! This project is built with love using React, Node.js, and MongoDB. It allows users to securely reset their passwords using JWT authentication.
@@ -18,22 +17,23 @@ Welcome to our Password Reset Web Application! This project is built with love u
 Watch a quick video demonstration of our Password Reset Web Application:
 
 1. **Video 1 Featuring:**
-   https://github.com/Harsha-2324/NodeJSTask_4_Password_Reset_FrontEnd/assets/24225236/7cc6e3f2-cb6b-4d9c-841b-468fcd8f0210
+   - `Register`: POST Data to MongoDB Database
+   - `Login`: GET Data from MongoDB Database
+   - `Forgot Password`: Mail Sent to Registered User's Mail ID using SMTP Protocol
+   - `JWT Token Generation`: For Secure user authentication
+   - `Reset Password`: PUT Data to MongoDB Database
+   - `Login`: using New Password
    
-    - `Register`: POST Data to MongoDB Database
-    - `Login`: GET Data from MongoDB Database
-    - `Forgot Password`: Mail Sent to Registerd User's Mail Id using SMTP Protocol
-    - `JWT Token Generation`: For Secure user authentication
-    - `Reset Password`: PUT Data to MongoDB Database
-    - `Login`: using New Password
+https://github.com/Harsha-2324/NodeJSTask_4_Password_Reset_FrontEnd/assets/24225236/8f6101f9-083a-47e4-93b7-1d2c5507017a
 
 
 2. **Video 2 Featuring:**
-   https://github.com/Harsha-2324/NodeJSTask_4_Password_Reset_FrontEnd/assets/24225236/1090d8ac-07bc-4c37-9a2e-10bdf8dd9b3c
+   - `Email Validation`: Ensure user input email requirements for user security
+   - `Password Validation`: Ensure user input password requirements for user security
+   - `JWT Token Expiry`: After a Password Reset expiration for enhanced security
 
-    - `Email Validation`: Ensure user input email requirements for user security
-    - `Password Validation`: Ensure user input password requirements for user security
-    - `JWT Token Expiry`: After a Password Reset expiration for enhanced security
+https://github.com/Harsha-2324/NodeJSTask_4_Password_Reset_FrontEnd/assets/24225236/9f851cdb-c7a2-4fa4-b784-3c1ac4d9d719
+
 
 ## Features ✨
 
