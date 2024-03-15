@@ -1,15 +1,17 @@
+Certainly! Here's the updated README.md with a video section:
+
+```markdown
 # Password Reset Web Application 🚀
 
 Welcome to our Password Reset Web Application! This project is built with love using React, Node.js, and MongoDB. It allows users to securely reset their passwords using JWT authentication.
 
+![Password Reset Web App Demo](demo.gif)
 
 ## Video Demo 🎥
 
 Watch a quick video demonstration of our Password Reset Web Application:
 
-[![Password Reset Web App Video]](<video controls src="public/Output Video/iCloud_Login_1.mp4" title="Title"></video>)
-
-[![Password Reset Web App Video]](<video controls src="public/Output Video/iCloud_Login_2.mp4" title="Title"></video>)
+[![Password Reset Web App Demo Video](demo-thumbnail.png)](https://www.youtube.com/watch?v=your-video-id)
 
 ## Features ✨
 
@@ -30,65 +32,54 @@ Watch a quick video demonstration of our Password Reset Web Application:
 
    ```bash
    git clone https://github.com/your-username/password-reset-web-app.git
-    ```
+   ```
 
-2. *Navigate to the Project Directory:*
-   
-    ```bash
+2. **Navigate to the Project Directory**:
 
-    cd password-reset-web-app
+   ```bash
+   cd password-reset-web-app
+   ```
 
-    ```
-3. Install Dependencies for the Frontend:
+3. **Install Dependencies for the Frontend**:
 
-    ```bash
+   ```bash
+   cd client
+   npm install
+   ```
 
-    cd client 
-    npm install
+4. **Install Dependencies for the Backend**:
 
-    ```
+   ```bash
+   cd ..
+   cd server
+   npm install
+   ```
 
-4. Install Dependencies for the Backend:
+5. **Set up Environment Variables**:
 
-    ```bash
-    
-    cd ..
-    cd server
-    npm install
+   - Create a `.env` file in the `server` directory.
+   - Define the following variables:
 
-    ```
-
-5. Set up Environment Variables:
-    - Create a .env file in the server directory.
-
-    - Define the following variables:
-    
-    ```plaintext
-
-    PORT=3001
-    MONGODB_URI=<your-mongodb-uri>
-    JWT_SECRET=<your-jwt-secret>
-
-    ```
+     ```plaintext
+     PORT=3001
+     MONGODB_URI=<your-mongodb-uri>
+     JWT_SECRET=<your-jwt-secret>
+     ```
 
 ## Usage 🚀
 
-1. Start the Backend Server:
-   
-    ```bash
+1. **Start the Backend Server**:
 
-    cd server
-    pm start
+   ```bash
+   cd server
+   npm start
+   ```
 
-    ```
+2. **Start the Frontend Development Server**:
 
-2. Start the Frontend Development Server:
-   
-    ```bash
+   ```bash
+   cd client
+   npm start
+   ```
 
-    cd client
-    pm start
-
-    ```
-
-3. Visit http://localhost:3000 in your web browser to access the application.
+3. **Visit `http://localhost:3000`** in your web browser to access the application.
