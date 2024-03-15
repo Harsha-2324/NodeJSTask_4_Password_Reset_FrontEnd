@@ -1,6 +1,4 @@
-Certainly! Here's the updated README.md with a video section:
 
-```markdown
 # Password Reset Web Application 🚀
 
 Welcome to our Password Reset Web Application! This project is built with love using React, Node.js, and MongoDB. It allows users to securely reset their passwords using JWT authentication.
