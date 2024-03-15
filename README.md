@@ -7,8 +7,9 @@ Welcome to our Password Reset Web Application! This project is built with love u
 
 Watch a quick video demonstration of our Password Reset Web Application:
 
-<video controls src="public/Output Video/iCloud_Login_1.mp4" title="Title"></video>
-<video controls src="public/Output Video/iCloud_Login_2.mp4" title="Title"></video>
+[![Password Reset Web App Video]](<video controls src="public/Output Video/iCloud_Login_1.mp4" title="Title"></video>)
+
+[![Password Reset Web App Video]](<video controls src="public/Output Video/iCloud_Login_2.mp4" title="Title"></video>)
 
 ## Features ✨
 
